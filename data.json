@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "Kiran Kembari",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "App Development"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a Full-Stack developer based in Mumbai, India. I'm an Computer Science graduate from Mumbai Universiy, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack applications and side projects.",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/jhon-doe"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/jhon-doe"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/jhondoe"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/jhondoe"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React JS",
+      "image": "https://img.icons8.com/color/144/null/react-native--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Angular",
+      "image": "https://img.icons8.com/color/144/null/angularjs--v1.png",
+      "category": "Frontend"
+    },{
+      "name": "React Native",
+      "image": "https://img.icons8.com/color/144/null/react-native--v1.png",
+      "category": "Frontend"
+    },{
+      "name": "Ionic",
+      "image": "https://img.icons8.com/color/144/null/ionic--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node JS",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/color/144/null/vscode.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Mysql",
+      "image": "https://img.icons8.com/color/144/null/mysql.png",
+      "category": "Databse"
+    },{
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/144/null/mongodb.png",
+      "category": "Databse"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Title",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "category": "MERN Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "Flutter, Dart, Firebase",
+      "category": "Flutter",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "LAMP Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Maharasthra State Board",
+      "degree": "SSC",
+      "duration": "2011"
+    },
+    {
+      "institute": "Maharasthra State Board",
+      "degree": "HSC Science",
+      "duration": "2013"
+    },
+    {
+      "institute": "Mumbai University",
+      "degree": "B.E CSE",
+      "duration": "2013 - 2017",
+      "desc": []
+    }
+  ],
+  "experiences": [
+    {
+      "company": "V2stech Solution",
+      "position": "Junior Software Developer",
+      "duration": "2017 -2019",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · Ionic · Angular JS"
+      ]
+    },
+    {
+      "company": "QFIX Infocomm Solutions",
+      "position": "Software Developer",
+      "duration": "2019 - 2021",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · Ionic · Angular JS .React JS"
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "position": "Senior Software Developer",
+      "duration": "2021 - present",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building new features and bug fixes of the product.",
+        "Skills: HTML · CSS · JavaScript · ReactJS · NodeJS · MySQL · REST APIs"
+      ]
+    }
+  ]
+}

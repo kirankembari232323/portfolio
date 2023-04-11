@@ -1,0 +1,247 @@
+{
+  "main": {
+    "name": "Kiran Kembari",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "App Development"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/null/react-native--v1.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/css3--v1.png",
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a Full-Stack developer based in Mumbai, India. I am an Computer Science graduate from Mumbai Universiy, Having 5 years of experience in development of Web & Mobile applications as a Software Developer. Having Good Knowledge in various JavaScript technologies including React JS, Angular JS, Node JS. Desire to take challenges, learn new technologies, ability to handle multiple tasks and meet project deadlines in a fast-paced environment. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack applications and side projects.",
+    "callUrl": "",
+    "resumeUrl": "https://docs.google.com/document/d/1IxrYPiTWHGpdJciKNJa7tz_ZQ_i5BQD5/edit?usp=share_link&ouid=112532969357661921777&rtpof=true&sd=true"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/kiran-kembari-51a45a139/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/kirankembari232323"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/kiran_kembari/"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/KiranKembari?t=GFpifwTnec8ZfJFZ6LSdKA&s=03"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React JS",
+      "image": "https://img.icons8.com/color/144/null/react-native--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML5",
+      "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+      "category": "Frontend"
+    },{
+      "name": "CSS3",
+      "image": "https://img.icons8.com/color/144/null/css3--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Angular",
+      "image": "https://img.icons8.com/color/144/null/angularjs--v1.png",
+      "category": "Frontend"
+    },{
+      "name": "React Native",
+      "image": "https://img.icons8.com/color/144/null/react-native--v1.png",
+      "category": "Frontend"
+    },{
+      "name": "Ionic",
+      "image": "https://img.icons8.com/color/144/null/ionic--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Next JS",
+      "image": "https://img.icons8.com/color/144/null/nextjs--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Redux",
+      "image": "https://img.icons8.com/color/144/null/redux--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Typescript",
+      "image": "https://img.icons8.com/color/144/null/typescript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/null/bootstrap--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Material UI",
+      "image": "https://img.icons8.com/color/144/null/material-ui--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node JS",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/color/144/null/vscode.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Mysql",
+      "image": "https://img.icons8.com/color/144/null/mysql.png",
+      "category": "Databse"
+    },{
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/144/null/mongodb.png",
+      "category": "Databse"
+    }
+  ],
+  "projects": [
+    {
+      "name": "EDUQFIX",
+      "techstack": "React Native, Redux, FCM, Node JS, Express JS, MongoDB",
+      "category": "React",
+      "image": "/qfix.webp",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://play.google.com/store/search?q=qfix&pli=1&c=apps"
+      }
+    },
+    {
+      "name": "Pay Direct (QFIX Payment Gateway)",
+      "techstack": "React JS, Redux, Java, SQL, Bootstrap, HTML, CSS,",
+      "category": "React",
+      "image": "/paydirect.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://paydirect.eduqfix.com/app/mobile/6916/15294/null"
+      }
+    },
+    {
+      "name": "Bhagwaanji (Devotee)",
+      "techstack": "React JS, Redux, Java, SQL, Bootstrap, HTML, CSS,",
+      "category": "React",
+      "image": "/bhagwaanji.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.bhagwaanji.com/"
+      }
+    },
+    {
+      "name": "User Dashboard",
+      "techstack": "React JS, Redux, Java, SQL, Bootstrap, HTML, CSS,",
+      "category": "React",
+      "image": "/user_dashboard.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://user.eduqfix.com/login"
+      }
+    },
+    {
+      "name": "CEF (Cloud Engagement Fund)",
+      "techstack": "React JS, Node JS, SQL, Carbon Design Systems, HTML, CSS, GitHub",
+      "category": "React",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Maharasthra State Board",
+      "degree": "SSC",
+      "duration": "2011"
+    },
+    {
+      "institute": "Maharasthra State Board",
+      "degree": "HSC Science",
+      "duration": "2013"
+    },
+    {
+      "institute": "Mumbai University",
+      "degree": "B.E CSE",
+      "duration": "2013 - 2017",
+      "desc": []
+    }
+  ],
+  "experiences": [
+    {
+      "company": "V2stech Solution",
+      "position": "Junior Software Developer",
+      "duration": "2017 -2019",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · Ionic · Angular JS"
+      ]
+    },
+    {
+      "company": "QFIX Infocomm Solutions",
+      "position": "Software Developer",
+      "duration": "2019 - 2021",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · Ionic · Angular JS .React JS"
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "position": "Senior Software Developer",
+      "duration": "2021 - present",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building new features and bug fixes of the product.",
+        "Skills: HTML · CSS · JavaScript · ReactJS · NodeJS · MySQL · REST APIs"
+      ]
+    }
+  ]
+}
